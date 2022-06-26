@@ -129,15 +129,19 @@ git commit
 ```
 昔のコミットメッセージのままだと、🍒cherry-pickしたことが、わかりにくいため、
 
+---
 昔）tada: 🎉 anaconda3-2021.11のVenvを作成
-
+↓
 今）[main f835aaf] tada: 🎉 (🍒:f30e587)anaconda3-2021.11のVenvを作成
 
+---
 と記載する。
 
+---
 [main f835aaf] 👉現在のブランチ名とcommit ID
 (🍒:f30e587)👉cherry-pickしたIDを記載
 
+---
 何を元に、どこの🌿ブランチに🍒cherry-pickしたのか、分かるように記載する。
 
 ## 新しいリモートリポジトリにpushする
