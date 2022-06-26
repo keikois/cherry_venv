@@ -131,7 +131,9 @@ git commit
 
 ---
 昔）tada: 🎉 anaconda3-2021.11のVenvを作成
+
 ↓
+
 今）[main f835aaf] tada: 🎉 (🍒:f30e587)anaconda3-2021.11のVenvを作成
 
 ---
